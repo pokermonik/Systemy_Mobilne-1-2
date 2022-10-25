@@ -3,6 +3,7 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Falsz</string>
     <string name="button_next">Nastepne</string>
+    <string name="button_hint">Podpowiedz</string>
     <string name="q_polska">w Polsce mieszka około 28 mln osob</string>
     <string name="q_drake">drake to malo znany raper</string>
     <string name="q_rzeka">glowne rzeki w polsce to wisla warta odra</string>
@@ -10,4 +11,5 @@
     <string name="q_film">christian bale grał protagoniste w american psycho</string>
     <string name="correct_answer">Tak, poprawnie!</string>
     <string name="incorrect_answer">Nie, zle</string>
+    <string name="answer_was_shown">Odpowiedz byla juz wyswietlona!</string>
 </resources>
